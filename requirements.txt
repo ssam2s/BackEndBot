@@ -1,1 +1,6 @@
-discord.py==0.16.12
+discord.py==1.7.2
+daytime.py==0.4
+asyncio.py==3.4.3
+et-xmlfile.py==1.1.0
+openpyxl.py==3.0.7
+workbook.py==1.1
