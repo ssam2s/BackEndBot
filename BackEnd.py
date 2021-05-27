@@ -1,11 +1,9 @@
 import discord
 import asyncio
 import datetime
-import os
 from openpyxl import load_workbook, Workbook
 
 #--------------------------------Settings-----------------------------------------
-access_token = os.environ["BOT_TOKEN"]
 intents = discord.Intents.default()
 intents.members = True
 
@@ -88,9 +86,9 @@ def delete():
 #로그랑 DB 볼 수 있는 GUI
 
 
-client.run("access_token")
+client.run("ODQ0MjA5ODkxMzc1ODQxMjgw.YKPFug.TlpoWCLJbKvyIL9AYJCL008SrDE")
 
 
-# 토큰 ODQ0MjA5ODkxMzc1ODQxMjgw.YKPFug.TlpoWCLJbKvyIL9AYJCL008SrDE
+# 토큰 
 # 844202162908954627 채널 ID
 # 844202162908954624 서버 ID
