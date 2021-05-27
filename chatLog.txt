@@ -1,0 +1,34 @@
+2021-05-23 / 06:49:40  Message from ( bot-test ) 20 서준혁#1491 : 하이루
+2021-05-23 / 06:51:05  Message from ( bot-test ) 20 서준혁#1491 : 방가
+2021-05-23 / 06:52:15  Message from ( bot-test ) 20 서준혁#1491 : 저장1
+2021-05-23 / 06:52:48  Message from ( bot-test ) 20 서준혁#1491 : 저장1
+2021-05-23 / 06:54:48  Message from ( bot-test ) 20 서준혁#1491 : 가나다
+2021-05-23 / 06:55:14  Message from ( bot-test ) 20 서준혁#1491 : 가나다
+2021-05-23 / 06:55:14  Message from ( bot-test ) 20 서준혁#1491 : ABC
+2021-05-23 / 06:55:14  Message from ( bot-test ) 20 서준혁#1491 : egf
+2021-05-23 / 06:55:14  Message from ( bot-test ) 20 서준혁#1491 : lol
+2021-05-23 / 06:56:51  Message from ( bot-test ) 20 서준혁#1491 : 구현
+2021-05-23 / 06:56:51  Message from ( bot-test ) 20 서준혁#1491 : 성공!
+2021-05-23 / 06:56:51  Message from ( bot-test ) 20 서준혁#1491 : 했지롱
+2021-05-23 / 20:23:08  Message from ( bot-test ) 20 서준혁#1491 : 안녕?
+2021-05-23 / 20:25:18  Message from ( bot-test ) 20 서준혁#1491 : 하이루
+2021-05-23 / 20:41:45  Message from ( bot-test ) 20 서준혁#1491 : 안녕
+2021-05-23 / 20:41:45  Message from ( bot-test ) 20 서준혁#1491 : !관리자모드
+2021-05-23 / 20:42:19  Message from ( bot-test ) 20 서준혁#1491 : 하이
+2021-05-23 / 20:42:19  Message from ( bot-test ) 20 서준혁#1491 : !관리자모드
+2021-05-23 / 20:42:19  Message from ( bot-test ) 20 서준혁#1491 : ㅋㅋ
+2021-05-23 / 20:42:19  Message from ( bot-test ) 20 서준혁#1491 : 수고링
+2021-05-23 / 20:44:06  Message from ( bot-test ) 20 서준혁#1491 : 안녕?
+2021-05-23 / 20:44:06  Message from ( bot-test ) 20 서준혁#1491 : !관리자모드
+2021-05-23 / 21:38:45  Message from ( bot-test ) 20 서준혁#1491 : test
+2021-05-24 / 02:47:57  Message from ( bot-test ) TestSJH#2499 : test
+2021-05-24 / 02:50:01  Message from ( bot-test ) TestSJH#2499 : 하이
+2021-05-24 / 02:50:01  Message from ( bot-test ) TestSJH#2499 : 안녕
+2021-05-24 / 03:01:14  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 03:08:36  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 03:30:54  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 03:36:36  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 03:57:25  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 04:08:37  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 04:27:33  Message from ( bot-test ) TestSJH#2499 : !DB초기화
+2021-05-24 / 04:54:06  Message from ( bot-test ) TestSJH#2499 : !DB초기화
